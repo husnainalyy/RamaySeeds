@@ -16,7 +16,7 @@ function WhyUs() {
                 
             </div>
             <div className='w-1/2 hidden lg:flex justify-center items-center'>
-                <img className='' src="../src\assets\heroimg.jpg" alt="oojo" />
+                <img className='' src="https://i.ibb.co/0hbJHJx/heroimg.jpg" alt="oojo" />
             </div>
         </div>
     )

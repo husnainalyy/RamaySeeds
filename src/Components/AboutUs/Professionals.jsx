@@ -15,7 +15,7 @@ function Professionals() {
                     <p class="mt-2 text-xl lg:text-sm text-gray-900">M Ashfaq Ramay, a renowned industrialist in Punjab, is the driving force behind Ramay Zarai Services. With a rich background in agriculture, poultry, cotton, and oil industries, he brings a wealth of experience and expertise to the table.Mr. Ramay's leadership inspires the team to continuously strive for excellence and deliver exceptional results.</p>
                 </div>
                 <div class="lg:w-1/4 lg:h-[80vh] p-4 border rounded text-center text-gray-500 max-w-sm shadow-2xl">
-                    <img class="w-44 h-44 rounded-full mx-auto" src="../src\assets\nasir.jpg    " alt="" />
+                    <img class="w-44 h-44 rounded-full mx-auto" src="https://i.ibb.co/wYq5SGq/nasir.jpg" alt="" />
                     <div class="text-sm mt-5">
                         <p class="pb-2 font-medium leading-none text-3xl lg:text-lg text-orange-500 ">Abdul Nasir Ramay</p>
                         <p className='text-2xl lg:text-sm'>Managing Director</p>
