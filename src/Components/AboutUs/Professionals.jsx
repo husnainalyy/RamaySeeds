@@ -25,7 +25,7 @@ function Professionals() {
                 <div class="lg:w-1/4 lg:h-[80vh] p-4 border  rounded text-center text-gray-500 max-w-sm shadow-2xl">
                     <img class="w-44 h-44 rounded-full mx-auto" src="https://i.ibb.co/YBNG6gY/nauman.jpg" alt="" />
                     <div class="text-sm mt-5">
-                        <p class="pb-2 font-medium leading-none text-3xl lg:text-lg text-orange-500 ">Dr Noman  Ramay </p>
+                        <p class="pb-2 font-medium leading-none text-3xl lg:text-lg text-orange-500 ">Vet Dr Numan  Ramay </p>
                         <p className='text-2xl lg:text-sm'>Chief Accountant</p>
                     </div>
                     <p class="mt-2 text-xl lg:text-sm text-gray-900">Introducing Dr. Nauman Ramay, our Chief Accountant, veterinarian by profession. With a unique blend of financial acumen and veterinary expertise, Dr. Ramay brings a fresh perspective to our financial operations. His dedication to detail and commitment to accuracy make him an invaluable asset in managing our finances effectively.</p>

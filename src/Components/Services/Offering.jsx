@@ -14,7 +14,7 @@ function Offering() {
                 </div>
             </div>
             <div className='lg:w-1/2'>
-                <img className='w-full' src="https://i.ibb.co/2MgNT5m/products-Back.jpg" alt="" />
+                <img className='w-full' src="https://i.ibb.co/dgCFvG8/products-Back.jpg" alt="" />
             </div>
         </div>
     )
