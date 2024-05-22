@@ -8,7 +8,7 @@ function Address() {
         e.preventDefault();
 
         emailjs
-            .sendForm('service_qgb18i6', 'template_db56u9a', form.current, {
+            .sendForm('service_41dfm2m', 'template_db56u9a', form.current, {
                 publicKey: 'rHbNglqxNiBYQ3Pn_',
             })
             .then(
@@ -17,7 +17,8 @@ function Address() {
                     console.log('WE WILL GET BACK TO YOU SOON!');
                 },
                 (error) => {
-                    console.log('FAILED...', error  );
+                    alert("Try again there is a error in service")
+                    console.log('FAILED... try again', error);
                 },
             );
     };
